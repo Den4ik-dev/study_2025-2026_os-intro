@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -Command \"Get-ChildItem -Filter ''*.png'' | Where-Object { $_Name -match ''\\s+\\(\\d+\\)\\.png$'' } | ForEach-Object { $newName = $_Name -replace ''\\s+\\(\\d+\\)\\.png$'', ''.png''; Rename-Item $_FullName -NewName $newName }\")",
+      "Bash(powershell -NoProfile -Command:*)",
+      "Bash(powershell -NoProfile -ExecutionPolicy Bypass -File \"C:\\University\\os-intro\\study_2025-2026_os-intro\\labs\\lab04\\report\\image\\rename.ps1\")",
+      "Bash(del \"C:\\University\\os-intro\\study_2025-2026_os-intro\\labs\\lab04\\report\\image\\rename.ps1\")"
+    ]
+  }
+}
