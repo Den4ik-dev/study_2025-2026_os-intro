@@ -8,7 +8,7 @@
 <text x="340" y="36" text-anchor="middle" style="fill:rgb(30, 30, 28);stroke:none;color:rgb(30, 30, 28);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:auto">Симметричное шифрование</text>
 
 <g style="fill:rgb(0, 0, 0);stroke:none;color:rgb(30, 30, 28);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-  <rect x="40" y="60" width="140" height="44" rx="8" stroke-width="0.5" style="fill:rgb(68, 68, 65);stroke:rgb(85, 83, 78);color:rgb(30, 30, 28);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="40" y="60" width="140" height="44" rx="8" stroke-width="0.5" style="fill:rgb(235, 235, 232);stroke:rgb(160, 158, 150);color:rgb(30, 30, 28);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
   <text x="110" y="82" text-anchor="middle" dominant-baseline="central" style="fill:rgb(65, 63, 58);stroke:none;color:rgb(30, 30, 28);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:central">Отправитель</text>
 </g>
 
@@ -18,7 +18,7 @@
 </g>
 
 <g style="fill:rgb(0, 0, 0);stroke:none;color:rgb(30, 30, 28);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-  <rect x="500" y="60" width="140" height="44" rx="8" stroke-width="0.5" style="fill:rgb(68, 68, 65);stroke:rgb(85, 83, 78);color:rgb(30, 30, 28);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="500" y="60" width="140" height="44" rx="8" stroke-width="0.5" style="fill:rgb(235, 235, 232);stroke:rgb(160, 158, 150);color:rgb(30, 30, 28);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
   <text x="570" y="82" text-anchor="middle" dominant-baseline="central" style="fill:rgb(65, 63, 58);stroke:none;color:rgb(30, 30, 28);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:central">Получатель</text>
 </g>
 
@@ -44,7 +44,7 @@
 <text x="340" y="232" text-anchor="middle" style="fill:rgb(30, 30, 28);stroke:none;color:rgb(30, 30, 28);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:auto">Асимметричное шифрование</text>
 
 <g style="fill:rgb(0, 0, 0);stroke:none;color:rgb(30, 30, 28);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-  <rect x="40" y="255" width="140" height="44" rx="8" stroke-width="0.5" style="fill:rgb(68, 68, 65);stroke:rgb(85, 83, 78);color:rgb(30, 30, 28);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="40" y="255" width="140" height="44" rx="8" stroke-width="0.5" style="fill:rgb(235, 235, 232);stroke:rgb(160, 158, 150);color:rgb(30, 30, 28);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
   <text x="110" y="277" text-anchor="middle" dominant-baseline="central" style="fill:rgb(65, 63, 58);stroke:none;color:rgb(30, 30, 28);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:central">Отправитель</text>
 </g>
 
@@ -54,7 +54,7 @@
 </g>
 
 <g style="fill:rgb(0, 0, 0);stroke:none;color:rgb(30, 30, 28);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-  <rect x="500" y="255" width="140" height="44" rx="8" stroke-width="0.5" style="fill:rgb(68, 68, 65);stroke:rgb(85, 83, 78);color:rgb(30, 30, 28);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="500" y="255" width="140" height="44" rx="8" stroke-width="0.5" style="fill:rgb(235, 235, 232);stroke:rgb(160, 158, 150);color:rgb(30, 30, 28);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
   <text x="570" y="277" text-anchor="middle" dominant-baseline="central" style="fill:rgb(65, 63, 58);stroke:none;color:rgb(30, 30, 28);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:14px;font-weight:500;text-anchor:middle;dominant-baseline:central">Получатель</text>
 </g>
 
