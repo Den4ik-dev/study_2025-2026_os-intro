@@ -32,17 +32,6 @@ polyglossia-otherlangs:
 ## I18n babel
 babel-lang: russian
 babel-otherlangs: english
-## Fonts
-mainfont: Times New Roman
-romanfont: Times New Roman
-sansfont: Arial
-monofont: Courier New
-mathfont: Cambria Math
-mainfontoptions: Ligatures=Common,Ligatures=TeX,Scale=0.94
-romanfontoptions: Ligatures=Common,Ligatures=TeX,Scale=0.94
-sansfontoptions: Ligatures=Common,Ligatures=TeX,Scale=MatchLowercase,Scale=0.94
-monofontoptions: Scale=MatchLowercase,Scale=0.94,FakeStretch=0.9
-mathfontoptions:
 ## Biblatex
 biblatex: true
 biblio-style: "gost-numeric"
